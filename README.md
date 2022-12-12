@@ -1,3 +1,10 @@
+# Weather App
+![Index page](/src/assets/presentation/index.png)
+
+![Desktop](/src/assets/presentation/desktop.png)
+
+![Mobile](/src/assets/presentation/mobile.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
