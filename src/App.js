@@ -10,7 +10,7 @@ function App() {
     // Search location if enter is pressed
     if (event.key === 'Enter')
     {
-      fetch(`http://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&APPID=652bae603a41caaf52e8b9203745b6c9`)
+      fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&APPID=652bae603a41caaf52e8b9203745b6c9`)
         .then(res => res.json())
         .then(actualData => {
           setData(actualData)
