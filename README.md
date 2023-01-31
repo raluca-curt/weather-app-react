@@ -1,9 +1,23 @@
 # Weather App
+
+## Description
+Enter a city's location and get the weather details in real time: 
+- temperature (in Celsius)
+- description
+- feels like (in Celsius)
+- humidity
+- wind speed
+
 ![Index page](/src/assets/presentation/index.png)
 
 ![Desktop](/src/assets/presentation/desktop.png)
 
 ![Mobile](/src/assets/presentation/mobile.png)
+
+# Technologies
+- React
+- CSS
+- Open Weather API
 
 # Getting Started with Create React App
 
